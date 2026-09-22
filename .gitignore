@@ -1,0 +1,14 @@
+# Результаты сборки
+*.exe
+*.obj
+*.o
+*.out
+
+# Каталоги сборки
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# Настройки VS Code
+.vscode/
