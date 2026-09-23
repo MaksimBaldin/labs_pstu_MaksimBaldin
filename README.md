@@ -15,4 +15,4 @@
 | 5 | Лабораторная работа №5 | — | Не начата |
 
 ## Изображение
-![Изображение]([https://placehold.co/600x300](https://photobooth.cdn.sports.ru/preset/post/9/fd/3367e5f344436a0609a77ecb08dbc.jpeg?f=webp&q=90&s=2x&w=730))
+![Изображение](https://photobooth.cdn.sports.ru/preset/post/9/fd/3367e5f344436a0609a77ecb08dbc.jpeg?f=webp&q=90&s=2x&w=730)
